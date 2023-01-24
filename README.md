@@ -3,7 +3,7 @@
 AI image generator for terminal, using the openAI API
 
 <img src="banner1.png" width="100%"/>
-<img src="banner2.png" width="100%"/>
+<img src="banner2.png" width="50%"/>
  
 
  <h3>GET STARTED</h3>
